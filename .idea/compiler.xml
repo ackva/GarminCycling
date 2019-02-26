@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GarminCycling" target="1.5" />
+      <module name="GarminCycling" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
